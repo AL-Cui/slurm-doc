@@ -805,3 +805,5 @@ Slurm配置文件的位置。
 * SQUEUE_USERS
 
 -u <user_list>, --users=<user_list>
+
+英文版点击[此处](https://slurm.schedmd.com/squeue.html),Time: 21:06:17 GMT, June 13, 2018版。
